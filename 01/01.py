@@ -37,6 +37,12 @@ print(arr4)
 zero_zero_zero = arr4[0, 0, 0]
 b = arr4[2, 1, 0]
 print(zero_zero_zero, b)
+
+print()
+print('#  9, 50, 700 띄우기')
+print(arr4[0, 2, 2])
+print(arr4[1, 1, 1])
+print(arr4[2, 2, 0])
 print('--------------------------------')
 
 
@@ -66,4 +72,5 @@ data2 = range(1, 10)
 data3 = range(11, 20)
 arr5 = np.array([data2])
 arr6 = np.array([data3])
-print(arr5, arr6)  # np.array 에 배열을 넣는건 적용이 안되는듯?
+print(arr5, arr6)
+print('--------------------------------')
