@@ -12,7 +12,7 @@ zero1 = np.zeros((5))
 print(zero1)
 print('--------------------------------')
 
-#  zero 행렬 2차원
+#  zero 행렬 2차원ㅐㅓㅐ
 print('#  zero 행렬 2차원')
 zero2 = np.zeros((5, 5))
 print(zero2)
